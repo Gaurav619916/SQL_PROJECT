@@ -14,3 +14,4 @@ This project focuses on analyzing sales data using SQL queries to extract meanin
 
 - Product and Order Analysis
 
+C:/Users/Gaurav/Desktop/SQL_PROECT.pdf
